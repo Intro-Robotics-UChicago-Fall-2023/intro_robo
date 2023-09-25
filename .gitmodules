@@ -1,0 +1,12 @@
+[submodule "class_meeting_10_cat_recognition"]
+	path = class_meeting_10_cat_recognition
+	url = https://github.com/Intro-Robotics-UChicago-Fall-2023/class_meeting_10_cat_recognition
+[submodule "class_meeting_05_likelihood_field"]
+	path = class_meeting_05_likelihood_field
+	url = https://github.com/Intro-Robotics-UChicago-Fall-2023/class_meeting_05_likelihood_field
+[submodule "lab_e_traffic_bot"]
+	path = lab_e_traffic_bot
+	url = https://github.com/Intro-Robotics-UChicago-Fall-2023/lab_e_traffic_bot
+[submodule "lab_b_line_follower"]
+	path = lab_b_line_follower
+	url = https://github.com/Intro-Robotics-UChicago-Fall-2023/lab_b_line_follower
